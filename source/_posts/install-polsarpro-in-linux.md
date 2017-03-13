@@ -12,6 +12,12 @@ I tried to install PolSARpro5.0 in Linux Lite(one of the Lightweight Linux) 32bi
 
 Linux LiteにPolSARPro5.0を入れてみた
 
+if you have any question, ask via twitter
+
+何かご質問があればTwitterまでどうぞ
+
+https://twitter.com/KYhei
+
 <!-- more -->
 
 <br>
